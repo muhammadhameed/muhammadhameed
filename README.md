@@ -9,11 +9,11 @@
 </div>
 
 
-- ✌️ My name is  **John Doe**. 
+- ✌️ My name is  **Muhammad Hameed**. 
 
-- 👨‍🎓 I am a 2021 Undergrad.
+- 👨‍🎓 I am a 2022 Undergrad.
 
-- 💻 I am a Self-taught **Web Developer**. 
+- 💻 I am a Self-taught **Web Developer** with proficiency in full stack, streamlit, PHP, Java . 
 
 - I love reading books and sharing Web Development related content.
 
